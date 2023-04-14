@@ -182,5 +182,5 @@ function setInfo(collision) {
         return;
     }
     infoCollisionCoords.style.color = "fireBrick";
-    infoCollisionCoords.textContent = "colliding..";
+    infoCollisionCoords.textContent = "colliding";
 }
